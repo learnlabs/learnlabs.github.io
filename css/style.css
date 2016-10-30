@@ -341,6 +341,7 @@ blockquote {
 .boxed-grey{
 	background: #f9f9f9;
 	padding: 20px;
+	margin-bottom:20px;
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
 	border: 1px solid #f0f0f0;
