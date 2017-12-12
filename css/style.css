@@ -789,6 +789,9 @@ textarea {
 .soc-facebook {
     background-color: #3e5b98;
 }
+.soc-medium {
+    background-color: #000000;
+}
 .soc-facebook:before {
     content:'\e041';
 }
